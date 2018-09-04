@@ -1,0 +1,18 @@
+.details {
+  position: relative;
+  border: lightgrey solid 3px;
+  margin-bottom: 30px;
+}
+
+.profile-box {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+}
+
+.profile-photo {
+  width: 30%;
+  position: relative;
+  top: -70px;
+  left: 30px;
+}

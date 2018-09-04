@@ -1,9 +1,10 @@
 import React from 'react';
+import '../styles/CoverPhoto.css';
 
 function CoverPhoto() {
   return (
-    <div>
-      
+    <div className="coverPhoto">
+
     </div>
   );
 }
