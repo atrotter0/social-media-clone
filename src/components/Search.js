@@ -1,14 +1,15 @@
 import React from 'react';
+import '../styles/Search.css';
 
 export function Search() {
   return (
-    <div>
-      <input type="text" placeholder="Search" />
-      <button onclick="tweet()">Tweet!</button>
+    <div className="search">
+      <input type="text" placeholder="Search" className="search-box" />
+      <button onClick={tweet} className="btn btn-lg btn-outline-primary">Tweet!</button>
     </div>
   );
 }
 
 export function tweet() {
-  alert("Tweeted!");
+  alert("Poop nuggets!");
 }
