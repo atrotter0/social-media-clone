@@ -1,0 +1,26 @@
+.nav {
+
+}
+
+.nav ul {
+  list-style-type: none;
+  padding: 0px;
+  margin-left: 10px;
+}
+
+.nav ul li {
+  display: inline-block;
+  padding: 10px;
+  border-left: 2px solid lightgray;
+  border-bottom: 2px solid lightgray;
+  border-top: 2px solid lightgray;
+}
+
+.nav ul li:last-child {
+  border-right: 2px solid lightgray;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  color: #444;
+}
