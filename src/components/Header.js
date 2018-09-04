@@ -5,9 +5,12 @@ import '../styles/Header.css';
 
 function Header() {
   return (
-    <div className="header">
-      <NavBar />
-      <Search />
+    <div>
+      <div className="header">
+        <NavBar />
+        <Search />
+      </div>
+      <hr/>
     </div>
   );
 }

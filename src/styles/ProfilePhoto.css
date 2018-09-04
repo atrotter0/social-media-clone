@@ -1,0 +1,8 @@
+.profilePhoto {
+  width: 100%;
+  outline: 1px solid red;
+}
+
+.profilePhoto img {
+  width: 10%;
+}
