@@ -2,7 +2,7 @@
 
 #### Epicodus React exercise, 09.04.18
 
-#### By Abel Trotter & Kelly Brooke
+#### By Abel Trotter & Kelli Brooke
 
 ## Description
 
@@ -36,4 +36,4 @@ A React app that simulates a social media app to practice building components, a
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2018 **Abel Trotter & Kelly Brooke**
+Copyright (c) 2018 **Abel Trotter & Kelli Brooke**
